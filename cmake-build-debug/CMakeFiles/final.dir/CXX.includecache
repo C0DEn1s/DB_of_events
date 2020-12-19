@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/denis/CLionProjects/coursera/yellow/final/database.cpp
+database.h
+C:/Users/denis/CLionProjects/coursera/yellow/final/database.h
+
+C:/Users/denis/CLionProjects/coursera/yellow/final/database.h
+date.h
+C:/Users/denis/CLionProjects/coursera/yellow/final/date.h
+string
+-
+set
+-
+map
+-
+functional
+-
+
+C:/Users/denis/CLionProjects/coursera/yellow/final/date.h
+iostream
+-
+iomanip
+-
+tuple
+-
+
